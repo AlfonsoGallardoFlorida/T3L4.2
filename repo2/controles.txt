@@ -1,0 +1,3 @@
+Control 1: A
+Control 2: B
+Control 3: Select
